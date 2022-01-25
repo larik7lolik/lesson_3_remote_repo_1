@@ -50,3 +50,5 @@ git svn clone -s http://repo/location
 **git pull username-project --tags**
 
 Как правило, используется сразу команда **git pull**.
+
+# git push — вносим изменения в удаленный репозиторий
