@@ -93,4 +93,7 @@ git svn clone -s http://repo/location
 
      mkdir project-dir
      cd project-dir
-     git init.
+     git init
+
+     
+
