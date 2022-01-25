@@ -83,6 +83,7 @@ git svn clone -s http://repo/location
 
 **git push origin origin/develop:refs/heads/test**
 
-# Работа с локальным репозиторием.
+# Работа с локальным репозиторием
 
-## Базовые команды.
+## Базовые команды
+
