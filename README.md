@@ -20,3 +20,5 @@ git clone git://user@somehost:port/~user/repository/project.git/
 
 git svn clone -s http://repo/location
 где -s – понимать стандартные папки SVN (trunk, branches, tags)
+
+# git fetch и git pull — забираем изменения из центрального репозитория
